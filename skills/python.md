@@ -1,7 +1,7 @@
 # python.md
 
 **Syntax:**
-- ...
+- Use absolute imports instead of relative
 
 **Formatting:**
 - Add a concise docstring to the top of each Python file that explains what it does
