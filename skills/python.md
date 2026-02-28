@@ -9,3 +9,6 @@
 **Types:**
 - Only add types for function parameters and return types
 - Use guard statements to prevent pyright type errors
+
+**Tools:**
+- Use `uv` instead of `pip` for installing packages (`uv add`) and running scripts (`uv run`)
