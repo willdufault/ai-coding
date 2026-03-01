@@ -1,6 +1,6 @@
 # AGENTS.md
 
-**General rules:**
+**General:**
 - Keep responses extremely concise
 - Ask for clarification if requirements are ambiguous
 - Don't assume unstated requirements
@@ -8,7 +8,7 @@
 - Prioritize producing correct results over clever solutions
 - Only perform tasks explicitly requested
 
-**Architecture rules:**
+**Architecture design:**
 - Keep designs simple and modular
 - Favor clarity and maintainability over clever or overly complex patterns
 - Minimize dependencies between components
@@ -17,7 +17,7 @@
 - Reuse patterns and components consistently across the project
 - Prefer using established patterns instead of creating new ones unless necessary
 
-**Coding rules:**
+**Coding standards:**
 - Use clear, self-explanatory variable, function, and class names
 - Replace magic values with variables, constants, or enums
 - Only add comments for complex code or important context
@@ -27,4 +27,8 @@
 - Extract repeated logic into variables, functions, or classes
 - Use intermediate variables to break up complex expressions
 - Use enums for predefined sets of values
+- Use moderate whitespace to clearly separate code blocks and improve readability
 
+**Skills reference:**
+- Apply language- or domain-specific rules from `.agent/skills/`
+- Only use the skill files relevant to the current task
