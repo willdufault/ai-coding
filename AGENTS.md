@@ -19,7 +19,7 @@
 
 **Coding standards:**
 - Use clear, self-explanatory variable, function, and class names
-- Replace magic values with variables, constants, or enums
+- Replace unclear literal values, like `/033c`, with variables, constants, or enums for clarity
 - Only add comments for complex code or important context
 - Use guard statements to avoid deep nesting
 - Prefer simple, readable code over optimal or clever solutions
