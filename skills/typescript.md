@@ -10,4 +10,5 @@
 - Don't use trailing commas
 
 **Types:**
+- Always add types for function parameters and return types
 - Only add types for function parameters and return types, unless required
