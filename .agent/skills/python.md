@@ -11,4 +11,4 @@
 - Use guard statements to avoid static type checker errors
 
 **Tools:**
-- Use `uv` for package management and running scripts (ex: `uv add requests`, `uv run main.py`).
+- Use `uv` for package management(ex: `uv add requests`)
