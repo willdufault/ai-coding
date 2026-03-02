@@ -1,4 +1,7 @@
-# typescript.md
+---
+name: typescript
+description: Write clean, consistent TypeScript with strict typing and predictable patterns. Use this skill when the user needs well-structured TypeScript code that follows disciplined syntax choices, explicit function types, and checker-friendly annotations.
+---
 
 **Syntax:**
 - Use `type` instead of `interface`
