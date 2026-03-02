@@ -1,3 +1,8 @@
+---
+name: python
+description: Develop clean, maintainable Python code for scripts, services, and backend logic. Use this skill when the user needs reliable Python implementations with clear structure, strong typing discipline, and modern dependency management using uv.
+---
+
 # python.md
 
 **Syntax:**
